@@ -5,11 +5,11 @@ date:   2021-01-31 12:21:00 -0800
 categories: portfolio, android, kotlin
 ---
 
-Magic Counter TCG is a native Android application written in Kotlin for Android version 8.0 and above. While searching for existing applications of this type, namely to count health in the popular card came, "Magic: The Gathering" I was dismayed to find many of them to be very simple and lacking the robust features that I myself wanted. After some tinkering I produced Magic Counter. 
+Magic Counter TCG is a native Android application written in Kotlin for Android version 8.0 and above. While searching for existing applications of this type, namely to count health in the popular card game, "Magic: The Gathering" I was dismayed to find many of them to be very simple and lacking the robust features that I myself wanted. After some tinkering I produced Magic Counter. 
 
 
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/assets/magic_counter/magic_counter_main.jpg" style="width: 100%">The Main Screen of the App</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/assets/magic_counter/magic_counter_main.gif" style="width: 100%">The Main Screen of the App</p>
 <p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/assets/magic_counter/coinflipgif.gif" style="width: 100%">Flipping a Coin</p>
 <p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 7%; margin-bottom: 0.5em;"><img src="/assets/magic_counter/resetgame.gif" style="width: 100%">Resetting the Game Board</p>
 
